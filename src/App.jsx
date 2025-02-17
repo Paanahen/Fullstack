@@ -1,5 +1,5 @@
 const App = () => {
-  const friends = [ 'Leevi', 'Venla']
+  const friends = [ 'Leevis', 'Venla']
 
   return (
     <div>
